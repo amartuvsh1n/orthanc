@@ -1,0 +1,8 @@
+version: "3.3"
+
+services:
+  orthanc:
+    images: biocontainers/orthanc:v1.5.6dfsg-1-deb_cv1
+docker pull biocontainers/orthanc-dicomweb
+v0.6dfsg-1-deb_cv1
+    
